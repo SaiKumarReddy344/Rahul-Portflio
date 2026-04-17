@@ -2,7 +2,7 @@
 
 A sleek, modern, and fully responsive portfolio website built with HTML, CSS, and JavaScript. Featuring an animated design, mobile-first layout, and project showcase — perfect for developers, designers, and creatives looking to impress.
 
-🌐 Live Demo Review
+## 🌐 Live Demo Review
 
 👉 https://rahulsatyavadauxportfolio.in/
 
